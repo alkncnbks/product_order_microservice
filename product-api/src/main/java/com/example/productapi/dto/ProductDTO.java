@@ -4,6 +4,7 @@ import java.math.BigDecimal;
 import jakarta.validation.constraints.*;
 import lombok.Data;
 import lombok.Builder;
+import org.jetbrains.annotations.NotNull;
 
 @Builder
 @Data
